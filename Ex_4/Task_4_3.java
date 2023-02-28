@@ -36,7 +36,7 @@ public class Task_4_3 {
         while(true){
             double num1 = result.getFirst();
             System.out.print("Введите символ действия (+ - / *): ");
-            String sign = sc.nextLine();
+            String sign = sc.next();
 
             if ("".equals(sign)) break;
             else if ("Отмена".equals(sign)|| "отмена".equals(sign)) {
