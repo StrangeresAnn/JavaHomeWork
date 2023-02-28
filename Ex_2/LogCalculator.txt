@@ -1,0 +1,21 @@
+февр. 27, 2023 6:20:03 PM Ex_2.Task_2_4 calculator
+INFO: 2.0 * 4.0 = 8.0
+
+февр. 27, 2023 6:21:12 PM Ex_2.Task_2_4 calculator
+INFO: 2.0 * 5.0 = 10.0
+
+февр. 27, 2023 6:23:26 PM Ex_2.Task_2_4 calculator
+INFO: 3.0 + 7.0 = 10.0
+
+февр. 27, 2023 6:23:42 PM Ex_2.Task_2_4 calculator
+INFO: 5.0 - 2.0 = 3.0
+
+февр. 27, 2023 6:23:57 PM Ex_2.Task_2_4 calculator
+INFO: 10.0 / 3.0 = 3.3333333333333335
+
+февр. 28, 2023 9:24:07 PM Ex_2.Task_2_4 calculator
+INFO: 2.0 * 7.0 = 14.0
+
+февр. 28, 2023 9:35:52 PM Ex_2.Task_2_4 calculator
+INFO: 2.0 * 4.0 = 8.0
+
